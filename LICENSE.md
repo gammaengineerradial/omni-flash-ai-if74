@@ -1,4 +1,4 @@
-# 
+# New Omni Flash plugins. Featuring model-monitoring and data-pipelines — optimized for maximum performance and efficiency.
 
 
 
